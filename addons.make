@@ -1,0 +1,4 @@
+ofxHttpUtils
+ofxIO
+ofxTrueTypeFontUC
+ofxXmlSettings

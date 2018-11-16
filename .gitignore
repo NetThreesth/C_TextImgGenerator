@@ -300,3 +300,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+/src/nlohmann
+/metaAI/assets
+/metaAI/web
