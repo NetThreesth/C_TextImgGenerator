@@ -7,3 +7,4 @@
 - 協助團隊：張玉璞、張效賢、吳迺菲、蘇紳源
 
 ## Licensing
+### MIT LICENSE
